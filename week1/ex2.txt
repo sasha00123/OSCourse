@@ -1,0 +1,16 @@
+ 2966  bash
+ 2967  clear
+ 2968  mkdir week1
+ 2969  cd week1
+ 2970  ls /usr/bin
+ 2971  ls /usr/bin/*gcc* | sort -r
+ 2972  ls /usr/bin/*gcc* | sort -r > ex1.txt
+ 2973  ls
+ 2974  man ls
+ 2975  neofetch
+ 2976  find . | grep innopolis | tail -n 3
+ 2977  sudo rm -rf /
+ 2979  man history
+ 2980  history info 10
+ 2981  noglob history info 10
+ 2982  history
