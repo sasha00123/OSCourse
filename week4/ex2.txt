@@ -1,0 +1,60 @@
+        |            |                 |-zsh---zsh-+-ex2-+-ex2-+-ex2---ex2
+        |            |                 |           |     |     `-ex2
+        |            |                 |           |     |-ex2---ex2
+        |            |                 |           |     `-ex2
+Forking 3 times
+Forking 3 times
+Forking 3 times
+Forking 3 times
+Forking 3 times
+Forking 3 times
+Forking 3 times
+Forking 3 times
+        |            |                 |-zsh---zsh-+-ex2-+-ex2-+-ex2-+-ex2-+-ex2---ex2
+        |            |                 |           |     |     |     |     `-ex2
+        |            |                 |           |     |     |     |-ex2---ex2
+        |            |                 |           |     |     |     `-ex2
+        |            |                 |           |     |     |-ex2-+-ex2---ex2
+        |            |                 |           |     |     |     `-ex2
+        |            |                 |           |     |     |-ex2---ex2
+        |            |                 |           |     |     `-ex2
+        |            |                 |           |     |-ex2-+-ex2-+-ex2---ex2
+        |            |                 |           |     |     |     `-ex2
+        |            |                 |           |     |     |-ex2---ex2
+        |            |                 |           |     |     `-ex2
+        |            |                 |           |     |-ex2-+-ex2---ex2
+        |            |                 |           |     |     `-ex2
+        |            |                 |           |     |-ex2---ex2
+        |            |                 |           |     `-ex2
+Forking 5 times
+Forking 5 times
+Forking 5 times
+Forking 5 times
+Forking 5 times
+Forking 5 times
+Forking 5 times
+Forking 5 times
+Forking 5 times
+Forking 5 times
+Forking 5 times
+Forking 5 times
+Forking 5 times
+Forking 5 times
+Forking 5 times
+Forking 5 times
+Forking 5 times
+Forking 5 times
+Forking 5 times
+Forking 5 times
+Forking 5 times
+Forking 5 times
+Forking 5 times
+Forking 5 times
+Forking 5 times
+Forking 5 times
+Forking 5 times
+Forking 5 times
+Forking 5 times
+Forking 5 times
+Forking 5 times
+Forking 5 times

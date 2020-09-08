@@ -1,0 +1,1 @@
+for i in $(seq 1 10); do printf "Launch: %d\n" "$i"; ./ex1; done

@@ -1,0 +1,34 @@
+PIDs are given incrementally, that's why every next run it grows by two.
+
+Script output:
+
+Launch: 1
+Hello from parent [PID - 7361]
+Hello from child [PID - 7362]
+Launch: 2
+Hello from parent [PID - 7363]
+Hello from child [PID - 7364]
+Launch: 3
+Hello from parent [PID - 7365]
+Hello from child [PID - 7366]
+Launch: 4
+Hello from parent [PID - 7367]
+Hello from child [PID - 7368]
+Launch: 5
+Hello from parent [PID - 7369]
+Hello from child [PID - 7370]
+Launch: 6
+Hello from parent [PID - 7371]
+Hello from child [PID - 7372]
+Launch: 7
+Hello from parent [PID - 7373]
+Hello from child [PID - 7374]
+Launch: 8
+Hello from parent [PID - 7375]
+Hello from child [PID - 7376]
+Launch: 9
+Hello from parent [PID - 7377]
+Hello from child [PID - 7378]
+Launch: 10
+Hello from parent [PID - 7379]
+Hello from child [PID - 7380]
