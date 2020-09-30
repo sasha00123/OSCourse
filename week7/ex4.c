@@ -11,6 +11,7 @@ void *my_realloc(void *ptr, size_t sz) {
     void *result = malloc(sz);
     // Just hope that memory there will be readable
     memcpy(result, ptr, sz);
+    free(ptr);
     return result;
 }
 
