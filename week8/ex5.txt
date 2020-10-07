@@ -1,0 +1,3 @@
+Physical address is the address on the disk itself. It used by OS to access data. It can only be used in kernel mode.
+
+Processes can only access virtual addresses, the ones OS allocates to them. They're relative to the process.

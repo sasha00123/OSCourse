@@ -1,0 +1,2 @@
+With 16-bit address space and 8KiB page size we have 2^16 / 2 ^ 13 = 8 pages.
+Hence we need 8 entries for the a single-level linear page table.
