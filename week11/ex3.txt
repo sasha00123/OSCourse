@@ -1,0 +1,2 @@
+Line buffer is enabled by default.
+Fork copies the buffer hence "Hello" is printed two times without "\n".
