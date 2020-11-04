@@ -1,0 +1,9 @@
+type/file             |    1MB    |    5MB    |
+copy                  |   0.015s  |   0.125s  |
+copy O_SYNC           |   0.162s  |   9.230s  |
+copy, 1024B buffer    |   0.014s  |   0.098s  |
+copy, buffer, O_SYNC  |   0.143s  |   1.674s  |
+
+
+We can mention that the execution timme grows nearly linear depending on file size.
+Also, increasing the buffer speeds up the execution. But enabling synchronization significantly increases time needed.
